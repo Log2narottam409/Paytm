@@ -1,1 +1,3 @@
 Git command are vary important
+git remote add paytm url
+git push paytm master
