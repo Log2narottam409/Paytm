@@ -1,3 +1,4 @@
 Git command are vary important
 git remote add paytm url
 git push paytm master
+git tag command used for production relise
