@@ -1,0 +1,1 @@
+Git commite command used for file trancfor to stagging area to local reposotory  
